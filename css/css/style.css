@@ -509,7 +509,7 @@ a {
 
 .cover-v1 {
   background-size: cover;
-  background-position: center center;
+  background-position: center;
   background-repeat: repeat;
   width: 100%; }
   .cover-v1.gradient-bottom-black {
